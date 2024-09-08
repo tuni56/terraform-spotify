@@ -1,1 +1,1 @@
-spotify_api_key = "_isyl_GQTozkvljDsApclMUbRXVI8oJENYF53aRR3bMAgancrMlJSlqslIGxclcK"
+spotify_api_key = "insert_your_api_key"
